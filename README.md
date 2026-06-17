@@ -33,24 +33,33 @@
 
 ```bash
 npm install
+```
 
 테스트 실행:
 
+```bash
 npx playwright test
+```
 
 HTML 리포트 확인:
 
+```bash
 npx playwright show-report
+```
 
 UI 모드 실행:
 
+```bash
 npx playwright test --ui
+```
 
 ## 테스트 결과
 
 2026-06-18 기준, 총 12개 테스트가 통과했습니다.
 
+```text
 12 passed
+```
 
 ## 프로젝트 의의
 
